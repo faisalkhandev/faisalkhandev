@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Faisal Khan </h1>
-<h3 align="center">A passionate MERN Stack developer</h3>
+<h3 align="center">A passionate MERN Stack developer</h3> 
 
-- 🌱 I’m currently learning **MERN Stack**
+![](https://komarev.com/ghpvc/?username=faisalkhandev&color=green&abbreviated=true)
+
+- 🌱 I’m currently work as **React Developer** but learning MERN Stack.
 
 - 👨‍💻 All of my projects are available at [https://faisalkhandev.com](https://faisalkhandev.com)
 
