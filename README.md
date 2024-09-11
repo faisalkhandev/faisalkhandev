@@ -3,7 +3,7 @@
 
 ![](https://komarev.com/ghpvc/?username=faisalkhandev&color=green&abbreviated=true)
 
-- 🌱 I’m currently work as **React Developer** but learning MERN Stack.
+- 🌱 I’m currently work as **React Developer/Nextjs** but learning MERN Stack.
 
 - 👨‍💻 All of my projects are available at [https://faisalkhandev.com](https://faisalkhandev.com)
 
