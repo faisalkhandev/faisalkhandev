@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://faisalkhandev.com](https://faisalkhandev.com)
 
-- 💬 Ask me about **As a highly motivated MERN Stack Developer with a background in WordPress Development, I am excited to bring my skills and experience to a new challenge in full-stack web development(MERN Stack Development). With 1.5 years of experience in WordPress development, I have honed my skills in front-end development, back-end development, and database management, and I am now eager to apply these skills to create dynamic web applications using MongoDB/mysql/postgresql, Express.js, React, and Node.js.**
+- 💬 Ask me about **As a highly motivated MERN Stack Developer with a background in WordPress Development, I am excited to bring my skills and experience to a new challenge in full-stack web development(MERN Stack Development). With years of experience in WordPress development, I have honed my skills in front-end development, back-end development, and database management, and I am now eager to apply these skills to create dynamic web applications using React.js, Next.js, TailwindCss, SQL, NoSQL, MongoDB.**
 
 - 📫 How to reach me **faisaldev404@gmail.com**
 
