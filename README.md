@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Faisal Khan </h1>
+<h1 align="center">Hi 👋, This is Faisal Khan Dev </h1>
 <h3 align="center">i make web apps.😊</h3> 
 
 ![](https://komarev.com/ghpvc/?username=faisalkhandev&color=green&abbreviated=true)
