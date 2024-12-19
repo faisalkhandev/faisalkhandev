@@ -3,13 +3,42 @@
 
 ![](https://komarev.com/ghpvc/?username=faisalkhandev&color=green&abbreviated=true)
 
-- 🌱 I’m currently work as **React Developer/Nextjs** but learning backend.
+# 💻 **About Me**
 
-- 👨‍💻 All of my projects are available at [https://faisalkhandev.com](https://faisalkhandev.com)
+🚀 **Full Stack Developer | MERN Stack Specialist | Front End Developer | WordPress Expert**
 
-- 💬 Ask me about **As a highly motivated MERN Stack Developer with a background in WordPress Development, I am excited to bring my skills and experience to a new challenge in full-stack web development(MERN Stack Development). With years of experience in WordPress development, I have honed my skills in front-end development, back-end development, and database management, and I am now eager to apply these skills to create dynamic web applications using React.js, Next.js, TailwindCss, SQL, NoSQL, MongoDB.**
+I am a **highly skilled Full Stack Developer** with a strong background in **WordPress development**. I specialize in building **robust, scalable, and dynamic web applications**. My skills span across **front-end**, **back-end**, and **database management**, ensuring a seamless and efficient development process.
 
-- 📫 How to reach me **faisaldev404@gmail.com**
+With advanced knowledge of **React.js**, **Next.js**, **MongoDB**, **SQL**, **NoSQL**, and **TailwindCSS**, I bring creativity and performance-driven solutions to life.
+
+---
+
+### 🔧 **Core Expertise**
+🌟 **Full Stack Development**:  
+- ⚡ Front-end: **React.js**, **Next.js**, **TailwindCSS**  
+- 🛠️ Back-end: **Node.js**, **Express.js**  
+- 📊 Databases: **MongoDB**, **SQL**, **NoSQL**  
+
+🌟 **MERN Stack Development**:  
+- Proficient in creating end-to-end applications using **MongoDB**, **Express.js**, **React.js**, and **Node.js**
+
+🌟 **Content Management Systems**:  
+- 🌐 Advanced expertise in **WordPress Development**
+
+---
+
+### 💬 **Ask Me About**
+✅ Building full-stack web applications with the **MERN Stack**  
+✅ Transitioning from **WordPress Development** to advanced **JavaScript frameworks**  
+✅ Creating scalable and performance-optimized web solutions  
+
+---
+
+### 🎯 **Let’s Connect**
+I’m passionate about collaborating on innovative projects and tackling complex challenges in **full-stack web development**. Feel free to reach out and discuss your next big idea! 🌟
+
+
+📫 How to reach me **faisaldev404@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
