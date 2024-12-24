@@ -7,18 +7,18 @@
 
 🚀 **Full Stack Developer | MERN Stack Specialist | Front End Developer | WordPress Expert**
 
-I am a **highly skilled Full Stack Developer** with a strong background in **WordPress development**. I specialize in building **robust, scalable, and dynamic web applications**. My skills span across **front-end**, **back-end**, and **database management**, ensuring a seamless and efficient development process.
+I am a **highly skilled Full Stack Developer**. I specialize in building **scalable, and dynamic web applications**. My skills span across **front-end**, **back-end**, and **database management**, ensuring a seamless and efficient development process.
 
-With advanced knowledge of **React.js**, **Next.js**, **MongoDB**, **SQL**, **NoSQL**, and **TailwindCSS**, I bring creativity and performance-driven solutions to life.
+With advanced knowledge of **React.js**, **Next.js**, **MongoDB**, **SQL**, **NoSQL**, **MUI**, and **TailwindCSS**, I bring creativity and performance-driven solutions to life.
 
 ---
 
 ### 🔧 **Core Expertise**
 🌟 **Full Stack Development**:  
-- ⚡ Front-end: **React.js**, **Next.js**, **TailwindCSS**  
+- ⚡ Front-end: **React.js**, **Next.js**, **TailwindCSS**, **MUI**,
 - 🛠️ Back-end: **Node.js**, **Express.js**  
-- 📊 Databases: **MongoDB**, **SQL**, **NoSQL**  
-- 🌟 Content Management Systems: Advanced expertise in **WordPress Development**
+- 📊 Databases: **MongoDB**, **SQL**, **NoSQL**
+- 🌟 CMS: expertise in **WordPress Development**
 
 ---
 
