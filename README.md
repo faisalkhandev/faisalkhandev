@@ -5,7 +5,7 @@
 
 # 💻 **About Me**
 
-🚀 **Full Stack Developer | MERN Stack Specialist | Front End Developer | WordPress Expert**
+🚀 **Full Stack Developer | MERN Stack Specialist | Front End Developer | WordPress Expert | SEO**
 
 I am a **highly skilled Full Stack Developer**. I specialize in building **scalable, and dynamic web applications**. My skills span across **front-end**, **back-end**, and **database management**, ensuring a seamless and efficient development process.
 
@@ -26,7 +26,7 @@ With advanced knowledge of **React.js**, **Next.js**, **MongoDB**, **SQL**, **No
 ✅ Building full-stack web applications with the **MERN Stack**  
 ✅ Transitioning from **WordPress Development** to advanced **JavaScript frameworks**  
 ✅ Creating scalable and performance-optimized web solutions  
-✅ **Google Keywords**: faisal Khan dev | faisal Khan dev mern stack |  
+✅ **Google Keywords**: faisal Khan dev | faisal Khan dev mern stack | faisal khan dev full stack developer | faisal khan full stack developer
 
 ---
 
