@@ -18,7 +18,7 @@ With advanced knowledge of **React.js**, **Next.js**, **MongoDB**, **SQL**, **No
 - ⚡ Front-end: **React.js**, **Next.js**, **TailwindCSS**, **MUI**,
 - 🛠️ Back-end: **Node.js**, **Express.js**  
 - 📊 Databases: **MongoDB**, **SQL**, **NoSQL**
-- 🌟 CMS: expertise in **WordPress Development**
+- 🌟 CMS: Expertise in **WordPress Development**
 
 ---
 
