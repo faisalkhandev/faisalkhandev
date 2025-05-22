@@ -9,7 +9,7 @@
 
 I am a **highly skilled Full Stack Developer**. I specialize in building **scalable, and dynamic web applications**. My skills span across **front-end**, **back-end**, and **database management**, ensuring a seamless and efficient development process.
 
-With advanced knowledge of **React.js**, **Next.js**, **MongoDB**, **SQL**, **NoSQL**, **MUI**, and **TailwindCSS**, I bring creativity and performance-driven solutions to life.
+With advanced knowledge of **React.js**, **Next.js**, **Nodejs**, **MongoDB**, **SQL**, **NoSQL**, **MUI**, and **TailwindCSS**, I bring creativity and performance-driven solutions to life.
 
 ---
 
