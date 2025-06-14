@@ -5,7 +5,7 @@
 
 # 💻 **About Me**
 
-🚀 **Full Stack Developer | MERN Stack Specialist | Front End Developer | WordPress Expert | SEO**
+🚀 **Full Stack Developer | MERN Stack Specialist | Front End Developer | AWS | SEO**
 
 I am a **highly skilled Full Stack Developer**. I specialize in building **scalable, and dynamic web applications**. My skills span across **front-end**, **back-end**, and **database management**, ensuring a seamless and efficient development process.
 
