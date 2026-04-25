@@ -16,10 +16,10 @@ With advanced knowledge of **React.js**, **Next.js**, **Nodejs**, **MongoDB**, *
 ### 🔧 **Core Expertise**
 🌟 **Full Stack Development**:  
 - ⚡ Front-end: **React.js**, **Next.js**, **TailwindCSS**, **MUI**,
-- 🛠️ Back-end: **Node.js**, **Express.js**  
+- 🛠️ Back-end: **Node.js**, **Express.js**, **Nestjs**  
 - 📊 Databases: **MongoDB**, **SQL**, **NoSQL**
 - 🚀 Deployment: **AWS**
-- 🌟 CMS: Expertise in **WordPress Development**
+- 🌟 CMS: Expertise in **WordPress Development**, **Theme Development**, **ACF**
 
 ---
 
