@@ -27,7 +27,7 @@ React and Next.js up front, Node.js, NestJS, and PostgreSQL underneath, LLMs wir
 - **Own the whole build.** 6+ years shipping production code and 30+ client projects, from database schema and API design to the UI, deployment, and support after launch.
 - **AI inside the workflow, not bolted on.** Multi-model LLM pipelines, RAG over private data, tool-using agents, and n8n automation, with guardrails and safety checks that sit outside the model.
 - **Products that carry real operations.** SaaS platforms, distribution ERPs, and AI products with role-based access, payments, async job queues, strict TypeScript, CI, and error monitoring.
-- **Remote by default.** Based in Pakistan (UTC+5), working with founders and teams across the US, Canada, the UK, Europe, Australia, and the Gulf over email, WhatsApp, and video.
+- **Remote by default.** Working with founders and teams across the US, Canada, the UK, Europe, Australia, and the Gulf over email, Slack, Discord, WhatsApp, and video call.
 
 ---
 
