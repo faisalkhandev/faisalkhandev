@@ -105,10 +105,7 @@ More client work: [faisalkhandev.com/portfolio](https://faisalkhandev.com/portfo
 ## GitHub activity
 
 <div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=faisalkhandev&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats for faisalkhandev" />
 <img height="180" src="https://streak-stats.demolab.com?user=faisalkhandev&theme=tokyonight&hide_border=true" alt="GitHub streak for faisalkhandev" />
-
 </div>
 
 ---
